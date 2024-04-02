@@ -1,8 +1,7 @@
-import json
+import os
 import subprocess   # enables use of command-line functions in python
 import re           # support for regular expressions
 import argparse     # to run the script from the command line
-import os
 
 
 ### index.txt ###
